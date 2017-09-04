@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><bestellingen>
+<bestelling adres="meistraat 5" datum_bestelling="4/09/2017" hoeveelheid="1" naam_klant="Robin" productnaam="laptop"/>
+<bestelling adres="meistraat 5" datum_bestelling="4/09/2017" hoeveelheid="5" naam_klant="Jan" productnaam="desktop"/>
+</bestellingen>
